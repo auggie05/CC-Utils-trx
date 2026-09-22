@@ -1,5 +1,5 @@
 # CC-utils-trx
-trx is a utility to transmit and receive messages in the Minecraft mod CC:Tweaked.
+trx is a utility to transmit and receive messages between computers in the Minecraft mod CC:Tweaked.
 
 ## Current functionality:
 
